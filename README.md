@@ -1,8 +1,8 @@
 # Hi there, I'm pgilmo 👋
 
-## ☁️ Cloud | Python Developer
+## ☁️ Cloud
 
-I am passionate about infrastructure automation, serverless architectures, and building tools that make cloud management easier. Currently focused on the **AWS** ecosystem and **Infrastructure as Code (IaC)**.
+I am passionate about infrastructure automation, serverless architectures, and building tools that make cloud management easier. Currently focused on the **AWS and Azure** ecosystem and **Infrastructure as Code (IaC)**.
 
 ---
 
